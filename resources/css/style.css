@@ -3,8 +3,11 @@ html {
   text-align: center;
 }
 
+body {
+  font-family: "Verdana", sans-serif;
+}
+
 h1 {
-  font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
   color: white;
@@ -17,14 +20,12 @@ h1 {
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
 
 p {
-  font-family: Verdana;
   font-size: 21px;
   color: Gray;
 }
